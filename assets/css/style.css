@@ -1,0 +1,91 @@
+
+
+hr{
+    width: 90%;
+    height: 3px;
+    background-color: blue;
+    border-color: blue;
+}
+
+h3{
+    color:brown;
+}
+
+.title{
+    color:blue;
+}
+
+body{
+    background-color:aqua;
+    
+}
+
+ol{
+    font-size: 20px;
+}
+
+ol li{
+    font-size: 1em;
+}
+
+ol.topics>li{
+    list-style-type: upper-alpha;
+    color:white;
+}
+
+a{
+    color:red;
+}
+
+a:visited{
+
+    color: blue;
+}
+
+a:hover{
+    
+color:brown;
+
+}
+
+a:active{
+color:white;
+
+}
+
+p{
+  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    border:1px solid red;
+    width: 600px;
+    padding: 5px 10px 5px 20px;
+    margin: 5px 10px;
+    box-sizing: border-box;
+
+    
+
+}
+
+table h2{
+    font-family:'Times New Roman';
+    font-weight: 400;
+    font-style: italic;
+    font-size:25px;
+
+}
+
+img.rand-image{
+    border-radius:5%;
+    width: 200px;
+    border-width: 10px;
+    border-style: solid;
+    display: block;
+    margin: 1em auto;
+    
+
+}
+
+img.rand-image-:hover{
+    width: 200px;
+}
